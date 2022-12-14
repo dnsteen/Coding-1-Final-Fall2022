@@ -1,1 +1,30 @@
-#middle{}
+body{
+    background-color: #1d1a33;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+hr{
+    color: white;
+}
+.info-text{
+    color: white;
+    font-size: 16px;
+}
+.carousel img{
+    margin:auto
+}
+.carousel{
+    background-color: #2a2740;
+}
+.list-group{
+    background-color: #171616;
+    color: #171616;
+}
+.strat-pack{
+    width: 500px ;
+    padding-left: 100px;
+}
